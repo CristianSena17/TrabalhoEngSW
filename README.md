@@ -1,5 +1,5 @@
-# TrabalhoEngSW
-Repositório para a entrega do trabalho de Engenharia de Software
+# Trabalho Engenharia de Software - 2024/1
+Repositório para a entrega do trabalho de Engenharia de Software da turma 2024/1.
 
 O objetivo abordado no trabalho será promover a conscientização e divulgar conhecimento sobre questões relacionadas ao meio ambiente (item 15), com base nos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
