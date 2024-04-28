@@ -7,7 +7,7 @@ O problema a ser resolvido pela solução de software planejada é a falta de ac
 
 O tipo de solução que será desenvolvida é uma página web educativa e interativa, que fornecerá conteúdo informativo sobre o meio ambiente e sua presenvação. Esta página web pode conter seções como artigos, infográficos, vídeos educativos, dicas práticas e links úteis para recursos adicionais.
 
-Requisitos funcionais:
+**Requisitos funcionais:**
 
 * O site terá navegação intuitiva e será fácil de usar.
 * O site terá conteúdo informativo sobre o meio ambiente, incluindo descrições, estatísticas, exemplos e impactos.
@@ -17,10 +17,14 @@ Requisitos funcionais:
 * Cada conteúdo do site terá uma página específica.
 * Existirá uma página principal com pontos de acesso para todas as outras páginas.
 
-Requisitos não funcionais:
+**Requisitos não funcionais:**
 
 * Performance rápida e carregamento eficiente das páginas.
 * Design responsivo e compatível com diferentes navegadores.
 * Garantia de segurança dos dados armazenados.
 * Manutenibilidade do sistema, possibilitando atualizações frequentes de conteúdo e correções de eventuais problemas técnicos.
 * Acessibilidade, garantindo que o site seja utilizável por pessoas com diferentes capacidades e dispositivos de acesso, seguindo padrões de acessibilidade web.
+
+**Diagrama de Caso de Uso:**
+
+![Caso de Uso](https://github.com/CristianSena17/TrabalhoEngSW/blob/main/Docs/Caso%20de%20Uso.png?raw=true)
