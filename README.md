@@ -27,4 +27,4 @@ O tipo de solução que será desenvolvida é uma página web educativa e intera
 
 **Diagrama de Caso de Uso:**
 
-![Caso de Uso](https://github.com/CristianSena17/TrabalhoEngSW/blob/main/Docs/Caso%20de%20Uso.png?raw=true)
+![Caso de Uso](https://github.com/CristianSena17/TrabalhoEngSW/blob/main/Images/Caso%20de%20Uso.png?raw=true)
