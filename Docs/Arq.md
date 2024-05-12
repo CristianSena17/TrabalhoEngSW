@@ -19,6 +19,6 @@ A arquitetura de cliente-servidor é uma das mais utilizadas na indústria de de
 
 **Diagramas:**
 
-![Diag1](https://github.com/CristianSena17/TrabalhoEngSW/blob/main/Docs/C4.png)
+![Diag1](https://github.com/CristianSena17/TrabalhoEngSW/blob/main/Images/C4.png)
 
-![Diag2](https://github.com/CristianSena17/TrabalhoEngSW/blob/main/Docs/Rela%C3%A7%C3%A3o%20p%C3%A1ginas.png)
+![Diag2](https://github.com/CristianSena17/TrabalhoEngSW/blob/main/Images/Rela%C3%A7%C3%A3o%20p%C3%A1ginas.png)
